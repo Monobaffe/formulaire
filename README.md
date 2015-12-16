@@ -7,4 +7,4 @@ apprentissage de php /my sql..
 
 ***
 lien :
-<a hrefl="https://htmlpreview.github.io/?https://github.com/Monobaffe/formulaire/blob/master/cv/index.html" traget="blank">CV avec formulaire(inactif)</a>
+<a href="https://htmlpreview.github.io/?https://github.com/Monobaffe/formulaire/blob/master/cv/index.html" traget="blank">CV avec formulaire(inactif)</a>
